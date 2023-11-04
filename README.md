@@ -27,3 +27,4 @@ Set up for 1920x1080 monitor, Change this in region, follow comments instruction
 
 Requires Reticle change colour setting.
 
+https://www.youtube.com/watch?v=svedBSNI7wI
